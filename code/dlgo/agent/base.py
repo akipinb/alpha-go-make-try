@@ -3,4 +3,4 @@ class Agent():
         pass
 
     def select_move(self, game_state):
-        ralse NotImplementedError()
+        raise NotImplementedError()
